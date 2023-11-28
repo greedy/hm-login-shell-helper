@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "hm-login-shell"
+name = "hm-login-shell-helper"
 version = "0.1.0"
 dependencies = [
  "simple-eyre",
